@@ -1,8 +1,8 @@
 # autoYamlTranslate
-##goal
+##goal  
 to allow for easy automatic translation of yaml file used for eu4 modding.
 
-##setup
+##setup  
 rename `service-account-file-example.json` into `service-account-file.json`, and put into it
 the content of the file genrated by https://cloud.google.com/translate/docs/quickstart-client-libraries on the
  *configure a project* button.
